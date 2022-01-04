@@ -81,7 +81,6 @@ public class Principal {
 
 	public static void mostrarRegra() {
 
-		int comeca = 1;
 		Scanner s = new Scanner(System.in);
 
 		System.out.println(" \t========= REGRAS DO JOGO  ============");
